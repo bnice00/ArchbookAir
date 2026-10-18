@@ -1,0 +1,4 @@
+servers:
+- name: BeachBumNAS
+  quick_connect: true
+  url: https://jellyfin.a1abeachbum.com
